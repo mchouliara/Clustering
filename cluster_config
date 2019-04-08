@@ -1,0 +1,4 @@
+number_of_clusters: 20
+number_of_hash_functions: 5
+number_of_hash_tables: 4
+max_loops: 20
